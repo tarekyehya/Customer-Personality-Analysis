@@ -10,6 +10,7 @@ Customer personality analysis helps a business to modify its product based on it
     
    - Who are the company's ideal customers?
         - What demographic and behavioral characteristics define these customers?
+          - Domine Knowledge: an ideal customer might have high engagement, high spending, frequent purchases, or high responsiveness to promotions.
    - What are the different customer segments?
         - How can customers be grouped based on similarities in their characteristics?
    - What are the specific needs, behaviors, and concerns of each customer   segment?
