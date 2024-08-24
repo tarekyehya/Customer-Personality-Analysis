@@ -1,5 +1,5 @@
 # Data Science
-
+### NOTE: this README will be rewritten soon ISA.
 ## my Portfolio For Data Science Profile.
 
 - This repo contains a set of Selected Projects.
